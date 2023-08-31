@@ -11,7 +11,7 @@ Welcome to the GitHub repository for my Temperature Converter 🌡 project! This
 
 🔧 Technologies Used:
 
-Technologies Used:*
+Technologies Used:
 - *HTML:* Used for structuring the basic elements of the web app.
 - *CSS:* Styled to create an aesthetically pleasing and intuitive user interface.
 - *JavaScript:* Implemented to handle the temperature conversion logic and provide real-time updates.
